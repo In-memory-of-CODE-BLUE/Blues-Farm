@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bluechu/bfarm/crate/crate"
+	"$bumpmap"     "models/bluechu/bfarm/crate/crate_normal"
+	"$surfaceprop" "Wood_Box"
+	"$halflambert" "1"
+	"$surfaceprop" "wood"
+}

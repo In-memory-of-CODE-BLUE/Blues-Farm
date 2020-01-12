@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture models/bluechu/bfarm/plant_carrot/carrot
+	$bumpmap models/bluechu/bfarm/plant_carrot/carrot_normal
+	$alphatest 1
+	$nocull 1
+	$surfaceprop flesh
+}

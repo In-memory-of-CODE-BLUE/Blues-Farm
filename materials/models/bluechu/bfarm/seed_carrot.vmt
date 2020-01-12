@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bluechu/bfarm/seed/seed_carrot"
+	"$bumpmap"     "models/bluechu/bfarm/seed/seed_normal"
+	"$halflambert" "1"
+	"$surfaceprop" "item"
+}

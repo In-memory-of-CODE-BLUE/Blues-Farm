@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture models/bluechu/bfarm/bag/bag
+	$bumpmap models/bluechu/bfarm/bag/bag_normal
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	$basetexture models/bluechu/bfarm/watercan/watercan
+	$bumpmap models/bluechu/bfarm/watercan/watercan_normal
+
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[ 0.2 0.25 0.2 ]"
+}

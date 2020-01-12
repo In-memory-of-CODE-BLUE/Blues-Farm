@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture models/bluechu/bfarm/plant/potato
+	$bumpmap models/bluechu/bfarm/plant/potato_normal
+	$alphatest 1
+	$nocull 1
+	$surfaceprop flesh
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture models/bluechu/bfarm/plant/potato_produce
+	$surfaceprop flesh
+}

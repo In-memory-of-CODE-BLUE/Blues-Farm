@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture models/bluechu/bfarm/pot/pot
+	$bumpmap models/bluechu/bfarm/pot/pot_normal
+}
